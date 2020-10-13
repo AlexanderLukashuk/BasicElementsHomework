@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iQtIiwGTmQz9g1U0/Fszm0xa0XYvkbZx4FnqUZl59Ss5ipsE/hq7fPMEb3uU9KBERkNVygCerEtc/l4vZorakQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luka_ry90\\source\\repos\\BasicElementsHomework\\BasicElementsHomework\\BasicElementsHomework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luka_ry90\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\Luka_ry90\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
